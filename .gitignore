@@ -1,34 +1,34 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-dist
-tmp
-out-tsc
-out
-build
-classes
-Debug
-Release
-x64
-bin
-gen
-Obj
-target
-proguard
-nbproject
-captures
+/dist
+/tmp
+/out-tsc
+/out
+/build
+/classes
+/Debug
+/Release
+/x64
+/bin
+/gen
+/Obj
+/target
+/proguard
+/nbproject
+/captures
 
 # dependencies
-node_modules
-bower_components
-.sass-cache
+/node_modules
+/bower_components
+/.sass-cache
 
 # IDEs and editors
 .project
-.classpath
-.settings
-.springBeans
-.idea
+/.classpath
+/.settings
+/.springBeans
+/.idea
 .iml
 .ipr
 .iws
@@ -42,6 +42,10 @@ import-summary.txt
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+*.suo
+*.db
+/.vs
+*.user
 
 # misc
 connect.lock
@@ -60,6 +64,8 @@ Thumbs.db
 
 # Compiled class file
 *.class
+/ipch
+.ipch
 
 # Log file
 *.log
