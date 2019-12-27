@@ -1,0 +1,5 @@
+C:\IdeaProjects\TypeScriptHTMLApp\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp.dll.config
+C:\IdeaProjects\TypeScriptHTMLApp\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp.dll
+C:\IdeaProjects\TypeScriptHTMLApp\TypeScriptHTMLApp1\bin\TypeScriptHTMLApp.pdb
+C:\IdeaProjects\TypeScriptHTMLApp\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp.dll
+C:\IdeaProjects\TypeScriptHTMLApp\TypeScriptHTMLApp1\obj\Debug\TypeScriptHTMLApp.pdb
